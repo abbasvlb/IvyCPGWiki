@@ -1,4 +1,4 @@
-<!-- TITLE: Login Configuration -->
+<!-- TITLE: Mobile Configuration -->
 <!-- SUBTITLE: A quick summary of Login Configuration -->
 
 # Login Configurations
