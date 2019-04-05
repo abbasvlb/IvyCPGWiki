@@ -2,7 +2,7 @@
 <!-- This will be displayed as a first screen when user logs into application -->
 
 # Mobile Configurations
-HomeScreen Activity Menus
+# HomeScreen Activity Menus
 
 
 
