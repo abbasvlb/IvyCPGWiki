@@ -38,7 +38,9 @@ Following information will help you to understand which columns used for which p
 * Menu Names
 * isMandatory
 * RField1
-* 
+
+
+# Additional Configurations
 
 1. Attribute wise menu
 1. AttributeId
@@ -49,6 +51,7 @@ Following information will help you to understand which columns used for which p
 
 -----
 
+# Special Configurations
 
 1. Floating Survey
 1. RField6
